@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "webpack": "4.1.1",
+    "webpack-cli": "2.0.10"
+  },
+  "dependencies": {
+    "html-webpack-plugin": "webpack-contrib/html-webpack-plugin"
+  }
+}
