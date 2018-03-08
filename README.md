@@ -12,3 +12,10 @@ Install Babel loader
 
 Add script section to the package.json
 
+Add Html webpack plugin
+> yarn add npm i html-webpack-plugin html-loader --dev
+
+Add src/index.html
+
+Install webpack dev-server
+> yarn add webpack-dev-server --dev
